@@ -101,7 +101,7 @@ public class Main {
 		Nodo anterior;
 		
 		public Nodo(Integer dato) {
-			this.dato = dato;
+			dato = dato;
 		}
 	}
 }
